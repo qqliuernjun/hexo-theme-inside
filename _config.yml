@@ -199,10 +199,10 @@ reward:
   #  `text`: text of the url, url will be displayed as default
   # You must set either a qrcode or a url
   # methods:
-  #   - name: wechat
-  #     qrcode:
-  #     url:
-  #     text:
+    # - name: wechat
+      # qrcode:
+      # url:
+      # text:
   #   - name: alipay
   #     qrcode:
   #     url:
