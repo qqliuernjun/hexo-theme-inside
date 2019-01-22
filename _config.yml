@@ -4,7 +4,7 @@ theme:
   # cdn for theme statics
   # cdn:
   # body background
-  background: /timg1.jpg 
+  background: /timg.jpg 
   # sidebar background
   # sidebar_background:
   # maximum width of content
@@ -15,7 +15,6 @@ theme:
 menu:
   Home: /
   About: /about
-  Links: /links
 
 # Profile
 profile:
