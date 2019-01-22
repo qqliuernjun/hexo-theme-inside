@@ -4,7 +4,7 @@ theme:
   # cdn for theme statics
   # cdn:
   # body background
-  # background:
+  background: /timg1.jpg 
   # sidebar background
   # sidebar_background:
   # maximum width of content
@@ -14,24 +14,24 @@ theme:
 # Mostly for your pages
 menu:
   Home: /
-  # About: /about
-  # Links: /links
+  About: /about
+  Links: /links
 
 # Profile
 profile:
-  avatar: /avatar.jpg
+  avatar: /1.jpg
   # Email address will be used for showing gravatar(https://en.gravatar.com) avatar if `avatar` is not specified.
-  email: example@mail.com
-  bio: Awesome guy.
+  email: 15838995173@163.com
+  bio: When someone asks you a question you don't want to answer, smile and say, "Why do you want to know?".
 
 # Social media
 # Try to sort by changing the order of the keys
 sns:
   # `email` will fallback to `profile.email` if not specified
-  email:
+  email: 15838995173@163.com
   # `feed` will fallback to `feed.path` of site if not specified
   feed:
-  github:
+  github: https://github.com/qqliuernjun
   twitter:
   facebook:
   google+:
@@ -45,8 +45,8 @@ sns:
   pinterest:
   soundcloud:
   myspace:
-  weibo:
-  qq:
+  weibo: https://weibo.com/u/5538571821/home?wvr=5&sudaref=graph.qq.com
+  qq: 1134055125
 
 footer:
   # If not defined, will show current year and author, eg: ©2018 • Superman.
@@ -109,7 +109,7 @@ category:
 
 # Favicon
 # Default is `favicon.ico`
-# favicon: favicon.ico
+favicon: /2.ico
 
 # Disqus comments
 comments:
